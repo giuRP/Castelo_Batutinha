@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bff667126040b84aa2fe215bd00d45b, type: 3}
+  m_Name: ArcoViolino
+  m_EditorClassIdentifier: 
+  itenName: Arco do Violino
+  itenImage: {fileID: 21300000, guid: 8084747488ab63f4b8219852d6bf4872, type: 3}
+  prefab: {fileID: 7288666033504268593, guid: aa7df6cf7857c1145aa792d2b4e22dc0, type: 3}
+  useItenSound: {fileID: 0}
+  id: 0

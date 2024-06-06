@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3bff667126040b84aa2fe215bd00d45b, type: 3}
+  m_Name: Balde
+  m_EditorClassIdentifier: 
+  itenName: Balde
+  itenImage: {fileID: 21300000, guid: f3c3aeea33249a344a48b66d40405049, type: 3}
+  prefab: {fileID: 6993211980025905409, guid: 5349788172f01154d95f63a362a1d2e8, type: 3}
+  useItenSound: {fileID: 0}
+  id: 0
